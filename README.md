@@ -1,1 +1,1 @@
-# Exploratory-data-analysis-
+# 'Exploratory Data Analysis' on dataset 'Global Terrorism'
